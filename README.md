@@ -20,7 +20,7 @@ aplikasi Android yang menampilkan daftar anime beserta informasi seperti judul, 
 
 ## 📸 Screenshot
 ![Anime App Preview](SSandroid/hasil.png)
-![Anime App Preview](SSandroid/hasil.png)
+![Anime App Preview](SSandroid/hasil2.png)
 ## 🛠️ Tech Stack
 - **Kotlin** - Bahasa pemrograman utama
 - **Android Jetpack** - ViewModel untuk pengelolaan data
