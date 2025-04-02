@@ -3,9 +3,6 @@
 ## 📌 Overview
 aplikasi Android yang menampilkan daftar anime beserta informasi seperti judul, genre, rating, dan gambar. Aplikasi ini menggunakan Jetpack ViewModel untuk mengelola data anime.
 
-## 📸 Screenshot
-![Anime App Preview](image.png)
-
 ## 🛠️ Tech Stack
 - **Kotlin** - Bahasa pemrograman utama
 - **Android Jetpack** - ViewModel untuk pengelolaan data
@@ -21,10 +18,6 @@ aplikasi Android yang menampilkan daftar anime beserta informasi seperti judul, 
 ## 📸 Screenshot
 ![Anime App Preview](SSandroid/hasil.png)
 ![Anime App Preview](SSandroid/hasil2.png)
-## 🛠️ Tech Stack
-- **Kotlin** - Bahasa pemrograman utama
-- **Android Jetpack** - ViewModel untuk pengelolaan data
-- **RecyclerView** - Untuk menampilkan daftar anime secara dinamis
 
 ## 📂 Project Structure
 ```
@@ -44,11 +37,6 @@ app/
 │   ├── test/                  # Unit tests
 │   ├── androidTest/           # Instrumented tests
 ```
-
-## 📜 Fitur Utama
-- Menampilkan daftar anime dengan gambar
-- Menyediakan informasi judul, genre, dan rating
-- Menggunakan ViewModel untuk pengelolaan data
 
 ## 🚀 Cara Menjalankan
 1. Clone repositori ini:
